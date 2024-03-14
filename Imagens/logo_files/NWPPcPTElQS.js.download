@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("PolarisStoriesTrayWrapper.react",["cr:4855","cr:4858","react"],(function(a,b,c,d,e,f,g){"use strict";var h,i=h||d("react");function a(a){var c=a.hideOwnStory;c=c===void 0?!1:c;var d=a.queryReference;a=a.storyTrayPolarisPreloadedQuery;if(b("cr:4855")!=null&&d!=null)return i.jsx(b("cr:4855"),{hideOwnStory:c,queryReference:d});return b("cr:4858")!=null?i.jsx(b("cr:4858"),{hideOwnStory:c,storyTrayPolarisPreloadedQuery:a}):null}a.displayName=a.name+" [from "+f.id+"]";g["default"]=a}),98);
